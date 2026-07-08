@@ -79,3 +79,8 @@ Ensure the required database and tables are created before running the applicati
 ## Author
 
 Shubhangi Teke
+
+## Future Improvements
+- Add user authentication
+- Improve UI
+- Add search functionality
